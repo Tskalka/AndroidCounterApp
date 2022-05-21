@@ -10,7 +10,7 @@ or anything that is needed to be kept track of.
 {Describe your purpose for creating this app.}
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/vOlEBb2GwC0)
 
 # Development Environment
 The app was developed in Android studio with Kotlin.
