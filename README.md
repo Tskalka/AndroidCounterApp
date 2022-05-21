@@ -1,7 +1,7 @@
 # Android Counter mobile application
 
 This was my first Android application made in Android Studio. This was so I could show what I have learned in Kotlin and apply it into Android Studio.
-
+I got some first time exposure to XML in Android studio as well. 
 
 This is a simple program where the number 0 is displayed on the screen with 3 different buttons. An add button, subtract, and reset.
 When add is pressed, the number is changed to 1. When subtract is pressed, the number is subracted by 1 to zero. Reset changes the number to zero.
@@ -19,7 +19,7 @@ The app was developed in Android studio with Kotlin.
 
 {Make a list of websites that you found helpful in this project}
 * Android Studio Documentation (https://developer.android.com/docs)
-* Kotlin Documentation in Android [(https://developer.android.com/kotlin?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_L4pcKHwub_1wNaLhyVPXjMnqzB2tLspM9Qakxr1tDWNV7PjMpgdeAaAmIqEALw_wcB&gclsrc=aw.ds)](https://developer.android.com/courses/android-basics-kotlin/course)
+* Kotlin Documentation in Android (https://developer.android.com/courses/android-basics-kotlin/course)
 
 # Future Work
 * Update the UI, Make it prettier
