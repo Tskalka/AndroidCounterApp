@@ -18,8 +18,8 @@ The app was developed in Android studio with Kotlin.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Android Studio Documentation]([http://url.link.goes.here](https://developer.android.com/docs))
-* [Kotlin Documentation]([http://url.link.goes.here](https://developer.android.com/kotlin?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_L4pcKHwub_1wNaLhyVPXjMnqzB2tLspM9Qakxr1tDWNV7PjMpgdeAaAmIqEALw_wcB&gclsrc=aw.ds))
+* [Android Studio Documentation][http://url.link.goes.here](https://developer.android.com/docs)
+* [Kotlin Documentation][http://url.link.goes.here](https://developer.android.com/kotlin?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_L4pcKHwub_1wNaLhyVPXjMnqzB2tLspM9Qakxr1tDWNV7PjMpgdeAaAmIqEALw_wcB&gclsrc=aw.ds)
 
 # Future Work
 * Update the UI, Make it prettier
